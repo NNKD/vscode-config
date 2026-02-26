@@ -1,0 +1,126 @@
+{
+  "window.titleBarStyle": "custom",
+  "window.restoreWindows": "all",
+  "window.title": "${rootNameShort}",
+
+  "explorer.compactFolders": false,
+
+  "editor.fontFamily": "JetBrains Mono, SF Mono, Consolas, monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.fontWeight": "500",
+  "editor.lineHeight": 20,
+
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 3,
+  "editor.cursorStyle": "line",
+
+  "editor.smoothScrolling": true,
+  "editor.mouseWheelZoom": true,
+
+  "editor.formatOnType": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.semanticHighlighting.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "editor.quickSuggestions": {
+    "strings": true,
+  },
+
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
+  "terminal.integrated.cursorBlinking": true,
+
+  "files.autoSave": "afterDelay",
+
+  "workbench.startupEditor": "none",
+  "workbench.editor.wrapTabs": true,
+
+  "workbench.colorCustomizations": {
+    "editorIndentGuide.activeBackground1": "#fff",
+
+    "[Dracula Theme Soft]": {
+      "titleBar.activeBackground": "#181818",
+      "titleBar.inactiveBackground": "#181818",
+      "titleBar.border": "#2b2b2b",
+
+      "editor.background": "#1f1f1f",
+
+      "editorGutter.background": "#1f1f1f",
+
+      "editorGroupHeader.tabsBackground": "#181818",
+      "editorGroupHeader.border": "#2b2b2b",
+      "editorGroupHeader.tabsBorder": "#2b2b2b",
+      "editorGroup.border": "#2b2b2b",
+
+      "tab.activeBackground": "#1f1f1f",
+      "tab.activeForeground": "#ffff",
+      "tab.inactiveBackground": "#181818",
+      "tab.inactiveForeground": "#9d9d9d",
+      "tab.hoverBackground": "#1f1f1f",
+      "tab.hoverForeground": "#ffffff",
+      "tab.border": "#2b2b2b",
+
+      "sideBar.background": "#181818",
+      "sideBar.border": "#2b2b2b",
+
+      "sideBarSectionHeader.background": "#181818",
+      "sideBarSectionHeader.foreground": "#ccc",
+
+      "activityBar.background": "#181818",
+      "activityBar.border": "#2b2b2b",
+
+      "panel.background": "#181818",
+      "panel.border": "#2b2b2b",
+
+      "terminal.background": "#181818",
+
+      "breadcrumb.background": "#1f1f1f",
+      "breadcrumb.foreground": "#ccc",
+
+      "statusBar.background": "#181818",
+      "statusBar.border": "#2b2b2b",
+    },
+  },
+
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.suppressWhenTypeMatchesName": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.implementationsCodeLens.enabled": true,
+
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "javascript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.suppressWhenTypeMatchesName": true,
+  "javascript.referencesCodeLens.enabled": true,
+
+  "java.inlayHints.parameterNames.enabled": "all",
+  "java.inlayHints.parameterTypes.enabled": true,
+  "java.inlayHints.variableTypes.enabled": true,
+  "java.referencesCodeLens.enabled": true,
+  "java.saveActions.organizeImports": true,
+
+  "extensions.ignoreRecommendations": true,
+
+  "[csv]": {
+    "editor.inlayHints.maximumLength": 0,
+  },
+
+  "redhat.telemetry.enabled": false,
+  "workbench.colorTheme": "Dracula Theme Soft",
+  "chat.agentsControl.enabled": false,
+  "window.newWindowProfile": "java",
+}
