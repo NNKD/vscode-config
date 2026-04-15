@@ -40,49 +40,49 @@
   "workbench.editor.wrapTabs": true,
 
   "workbench.colorCustomizations": {
-    "editorIndentGuide.activeBackground1": "#fff",
+    "editorIndentGuide.activeBackground1": "#ffffff",
 
     "[Dracula Theme Soft]": {
-      "titleBar.activeBackground": "#181818",
-      "titleBar.inactiveBackground": "#181818",
-      "titleBar.border": "#2b2b2b",
+      "titleBar.activeBackground": "#1d1d1d",
+      "titleBar.inactiveBackground": "#1d1d1d",
+      "titleBar.border": "#333333",
 
-      "editor.background": "#1f1f1f",
+      "editor.background": "#252525",
 
-      "editorGutter.background": "#1f1f1f",
+      "editorGutter.background": "#252525",
 
-      "editorGroupHeader.tabsBackground": "#181818",
-      "editorGroupHeader.border": "#2b2b2b",
-      "editorGroupHeader.tabsBorder": "#2b2b2b",
-      "editorGroup.border": "#2b2b2b",
+      "editorGroupHeader.tabsBackground": "#1d1d1d",
+      "editorGroupHeader.border": "#333333",
+      "editorGroupHeader.tabsBorder": "#333333",
+      "editorGroup.border": "#333333",
 
-      "tab.activeBackground": "#1f1f1f",
-      "tab.activeForeground": "#ffff",
-      "tab.inactiveBackground": "#181818",
-      "tab.inactiveForeground": "#9d9d9d",
-      "tab.hoverBackground": "#1f1f1f",
+      "tab.activeBackground": "#252525",
+      "tab.activeForeground": "#f5f5f5",
+      "tab.inactiveBackground": "#1d1d1d",
+      "tab.inactiveForeground": "#b0b0b0",
+      "tab.hoverBackground": "#2a2a2a",
       "tab.hoverForeground": "#ffffff",
-      "tab.border": "#2b2b2b",
+      "tab.border": "#333333",
 
-      "sideBar.background": "#181818",
-      "sideBar.border": "#2b2b2b",
+      "sideBar.background": "#1d1d1d",
+      "sideBar.border": "#333333",
 
-      "sideBarSectionHeader.background": "#181818",
-      "sideBarSectionHeader.foreground": "#ccc",
+      "sideBarSectionHeader.background": "#1d1d1d",
+      "sideBarSectionHeader.foreground": "#d0d0d0",
 
-      "activityBar.background": "#181818",
-      "activityBar.border": "#2b2b2b",
+      "activityBar.background": "#1d1d1d",
+      "activityBar.border": "#333333",
 
-      "panel.background": "#181818",
-      "panel.border": "#2b2b2b",
+      "panel.background": "#1d1d1d",
+      "panel.border": "#333333",
 
-      "terminal.background": "#181818",
+      "terminal.background": "#1d1d1d",
 
-      "breadcrumb.background": "#1f1f1f",
-      "breadcrumb.foreground": "#ccc",
+      "breadcrumb.background": "#252525",
+      "breadcrumb.foreground": "#d0d0d0",
 
-      "statusBar.background": "#181818",
-      "statusBar.border": "#2b2b2b",
+      "statusBar.background": "#1d1d1d",
+      "statusBar.border": "#333333",
     },
   },
 
