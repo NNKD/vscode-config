@@ -1,0 +1,117 @@
+{
+  "window.titleBarStyle": "custom",
+  "window.restoreWindows": "all",
+  "window.title": "${rootNameShort}",
+
+  "explorer.compactFolders": false,
+
+  "editor.fontFamily": "JetBrains Mono, SF Mono, Consolas, monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.fontWeight": "500",
+  "editor.lineHeight": 20,
+
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorWidth": 3,
+  "editor.cursorStyle": "line",
+
+  "editor.smoothScrolling": true,
+  "editor.mouseWheelZoom": true,
+
+  "editor.formatOnType": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.semanticHighlighting.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java",
+  },
+  "editor.quickSuggestions": {
+    "strings": true,
+  },
+
+  "terminal.integrated.fontFamily": "CaskaydiaCove Nerd Font Mono",
+  "terminal.integrated.cursorBlinking": true,
+
+  "files.autoSave": "afterDelay",
+
+  "workbench.startupEditor": "none",
+  "workbench.editor.wrapTabs": true,
+
+  "workbench.colorCustomizations": {
+    "editorIndentGuide.activeBackground1": "#ffffff",
+
+    "[Dracula Theme Soft]": {
+      "titleBar.activeBackground": "#1d1d1d",
+      "titleBar.inactiveBackground": "#1d1d1d",
+      "titleBar.border": "#333333",
+
+      "editor.background": "#252525",
+
+      "editorGutter.background": "#252525",
+
+      "editorGroupHeader.tabsBackground": "#1d1d1d",
+      "editorGroupHeader.border": "#333333",
+      "editorGroupHeader.tabsBorder": "#333333",
+      "editorGroup.border": "#333333",
+
+      "tab.activeBackground": "#252525",
+      "tab.activeForeground": "#f5f5f5",
+      "tab.inactiveBackground": "#1d1d1d",
+      "tab.inactiveForeground": "#b0b0b0",
+      "tab.hoverBackground": "#2a2a2a",
+      "tab.hoverForeground": "#ffffff",
+      "tab.border": "#333333",
+
+      "sideBar.background": "#1d1d1d",
+      "sideBar.border": "#333333",
+
+      "sideBarSectionHeader.background": "#1d1d1d",
+      "sideBarSectionHeader.foreground": "#d0d0d0",
+
+      "activityBar.background": "#1d1d1d",
+      "activityBar.border": "#333333",
+
+      "panel.background": "#1d1d1d",
+      "panel.border": "#333333",
+
+      "terminal.background": "#1d1d1d",
+
+      "breadcrumb.background": "#252525",
+      "breadcrumb.foreground": "#d0d0d0",
+
+      "statusBar.background": "#1d1d1d",
+      "statusBar.border": "#333333",
+    },
+  },
+
+  "js/ts.suggest.autoImports": true,
+  "js/ts.updateImportsOnFileMove.enabled": "always",
+  "js/ts.inlayHints.parameterNames.enabled": "all",
+  "js/ts.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
+  "js/ts.inlayHints.functionLikeReturnTypes.enabled": true,
+  "js/ts.inlayHints.variableTypes.enabled": true,
+  "js/ts.inlayHints.variableTypes.suppressWhenTypeMatchesName": true,
+  "js/ts.inlayHints.propertyDeclarationTypes.enabled": true,
+  "js/ts.inlayHints.enumMemberValues.enabled": true,
+  "js/ts.referencesCodeLens.enabled": true,
+  "js/ts.implementationsCodeLens.enabled": true,
+
+  "java.inlayHints.parameterNames.enabled": "all",
+  "java.inlayHints.parameterTypes.enabled": true,
+  "java.inlayHints.variableTypes.enabled": true,
+  "java.referencesCodeLens.enabled": true,
+
+  "extensions.ignoreRecommendations": true,
+
+  "[csv]": {
+    "editor.inlayHints.maximumLength": 0,
+  },
+
+  "redhat.telemetry.enabled": false,
+  "chat.agentsControl.enabled": "hidden",
+  "window.newWindowProfile": "java",
+  "workbench.colorTheme": "Dracula Theme Soft",
+  "workbench.browser.openLocalhostLinks": false,
+}
